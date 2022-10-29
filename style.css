@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+    margin-top:23px;
+    background-color:black;
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    border-radius: 21px;
+    border: 2px solid black;
+    font-size:34px;
+    height: 65px;
+    width: 276px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: black;
+    width: 60px;
+    height: 70px;
+    margin: 6px;
+    color: white;
+    cursor: pointer;
+}
+
+.calculator{ 
+    border: 4px solid black;
+    background-color:white;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+}
+
+h1{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+color: white;
+}
